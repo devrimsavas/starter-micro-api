@@ -18,7 +18,7 @@ http.createServer(function (req, res) {
               '<title>Greeting to Paul</title>' +
               '</head>' +
               '<body>' +
-              '<h1>Hi Paul, how are you today?</h1>' + // Your friendly message to Paul
+              '<h1 style="color:blue">Hi Paul, how are you today?</h1>' + // Your friendly message to Paul
               '</body>' +
               '</html>');
 
